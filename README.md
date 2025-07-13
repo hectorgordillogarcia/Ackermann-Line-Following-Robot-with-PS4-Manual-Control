@@ -25,6 +25,13 @@ The map used for line following is shown below:
 
 ![Line Following Map](Map.png)
 
+## 🚗 Car
+
+The car used to simulate all functions:
+
+![Ackermann Car](CAR.png)
+
+
 ## 🎮 Manual Control
 
 The robot can be driven manually using a PlayStation 4 controller, mapped through the `joy` and `teleop_twist_joy` ROS 2 packages. You can switch between manual and autonomous modes easily during runtime.
