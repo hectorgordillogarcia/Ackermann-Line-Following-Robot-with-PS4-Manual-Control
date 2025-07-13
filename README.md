@@ -68,7 +68,7 @@ ros2 launch ackermann_line_follower manual.launch.py
 ## 👨‍💻 Authors
 
 **Héctor Gordillo**  
----
+
 
 ## 📚 References
 
