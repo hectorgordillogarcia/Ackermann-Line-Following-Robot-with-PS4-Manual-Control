@@ -33,11 +33,18 @@ The robot can be driven manually using a PlayStation 4 controller, mapped throug
 
 ### 🔁 Ackermann Movement
 
-[📽️ Watch Video1.mpg](Video1.mp4)
+<video width="100%" controls>
+  <source src="Video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 🎮 Manual Control with PS4 Controller
 
-[📽️ Watch Video2.mp4](Video2.mp4)
+<video width="100%" controls>
+  <source src="Video2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🚀 How to Run
