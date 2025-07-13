@@ -23,7 +23,7 @@ This project presents a line-following robot with an Ackermann steering configur
 
 The map used for line following is shown below:
 
-![Line Following Map](map.png)
+![Line Following Map](Map.png)
 
 ## 🎮 Manual Control
 
@@ -34,14 +34,14 @@ The robot can be driven manually using a PlayStation 4 controller, mapped throug
 ### 🔁 Ackermann Movement
 
 <video width="100%" controls>
-  <source src="video1.mpg" type="video/mp4">
+  <source src="Video1.mpg" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### 🎮 Manual Control with PS4 Controller
 
 <video width="100%" controls>
-  <source src="video2.mp4" type="video/mp4">
+  <source src="Video2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
