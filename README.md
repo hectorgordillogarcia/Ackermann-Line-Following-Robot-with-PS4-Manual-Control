@@ -70,4 +70,8 @@ ros2 launch ackermann_line_follower manual.launch.py
 **Héctor Gordillo**  
 ---
 
+## 📚 References
+
+This project was inspired in part by the repository [ros_follow_line](https://github.com/pariaspe/ros_follow_line.git) by @pariaspe, which provides a useful baseline for line-following robots using ROS.
+
 📌 *This project is part of an academic robotics assignment focused on ROS 2-based control and Ackermann kinematics.*
